@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+.idea 
+*.log
+*.md
+
+
 # testing
 /coverage
 
